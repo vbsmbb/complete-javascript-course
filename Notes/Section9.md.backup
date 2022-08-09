@@ -336,4 +336,5 @@
 1. The split() methods allows us to split our string into multiple strings given a string to split on
 2. The join() method allows us to join elements from a collection into a single string given a string to join on
 3. You can pad a string at the beginning or the end
-
+	* 
+4. 
