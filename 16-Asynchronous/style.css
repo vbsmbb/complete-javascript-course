@@ -45,6 +45,7 @@ body {
   /* overflow: hidden; */
 }
 
+.neighbor::before,
 .neighbour::before {
   content: 'Neighbour country';
   width: 100%;
@@ -58,6 +59,7 @@ body {
   color: #888;
 }
 
+.neighbor,
 .neighbour {
   transform: scale(0.8) translateY(1rem);
   margin-left: 0;
